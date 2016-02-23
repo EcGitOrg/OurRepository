@@ -1,0 +1,3 @@
+C:\Users\Hampus Lundgren\documents\visual studio 2015\Projects\Extra exercises 2\5\bin\Debug\5.exe.config
+C:\Users\Hampus Lundgren\documents\visual studio 2015\Projects\Extra exercises 2\5\obj\Debug\5.exe
+C:\Users\Hampus Lundgren\documents\visual studio 2015\Projects\Extra exercises 2\5\obj\Debug\5.pdb
