@@ -22,7 +22,7 @@ namespace _5
                     soon = DateTime.Now.AddMilliseconds(150);
                     
 
-                    dvektor.PrintArray(arr); // Här ska du skriva!"!
+                    dvektor.PrintArray(arr); // Här ska du skriva! -här skriver jag shirzad!!
 
               
                 }
