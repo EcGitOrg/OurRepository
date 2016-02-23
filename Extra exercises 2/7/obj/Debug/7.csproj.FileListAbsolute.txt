@@ -4,3 +4,6 @@ C:\Users\Hampus Lundgren\documents\visual studio 2015\Projects\Extra exercises 2
 C:\Users\Hampus Lundgren\documents\visual studio 2015\Projects\Extra exercises 2\7\obj\Debug\7.csprojResolveAssemblyReference.cache
 C:\Users\Hampus Lundgren\documents\visual studio 2015\Projects\Extra exercises 2\7\obj\Debug\7.exe
 C:\Users\Hampus Lundgren\documents\visual studio 2015\Projects\Extra exercises 2\7\obj\Debug\7.pdb
+C:\Users\Shiroo\Documents\GitHub\theRealShitt\OurRepository\Extra exercises 2\7\bin\Debug\7.exe.config
+C:\Users\Shiroo\Documents\GitHub\theRealShitt\OurRepository\Extra exercises 2\7\obj\Debug\7.exe
+C:\Users\Shiroo\Documents\GitHub\theRealShitt\OurRepository\Extra exercises 2\7\obj\Debug\7.pdb
