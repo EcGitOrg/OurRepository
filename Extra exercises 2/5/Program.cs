@@ -21,7 +21,7 @@ namespace _5
                 {
                     soon = DateTime.Now.AddMilliseconds(150);
                     
-                    dvektor.PrintArray(arr);
+                    dvektor.PrintArray(arr); // Här ska du skriva!"!
                 }
             }
            
